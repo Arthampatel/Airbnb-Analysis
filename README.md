@@ -1,8 +1,5 @@
 # Airbnb-Analysis
-Certainly! Below is a brief description for the "Airbnb Booking Analysis" project and the "Interactive Tableau Dashboard":
-
 ### Airbnb Booking Analysis:
-
 **Project Overview:**
 The Airbnb Booking Analysis project involves the exploration and analysis of data related to Airbnb bookings. The goal is to derive insights and patterns from the dataset, providing valuable information for both hosts and guests.
 
