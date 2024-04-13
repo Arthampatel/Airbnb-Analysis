@@ -50,6 +50,9 @@ The Interactive Tableau Dashboard complements the Airbnb Booking Analysis projec
    - Intuitive design for easy navigation.
    - Tooltips and explanations for each visualization.
 
+**AirBnb Dashboard**
+![Screenshot (106)](https://github.com/Arthampatel/Airbnb-Analysis/assets/140424795/e2f80f3b-5191-4244-b94a-75183054d5b6)
+
 **Benefits:**
    - Hosts can make data-driven decisions to improve their property listings.
    - Guests can use the dashboard to find suitable accommodations based on preferences.
